@@ -1,0 +1,16 @@
+.todoTitle{
+  font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 95px;
+  font-weight: 600;
+  color: #FFDB58,
+}
+
+.inputForTodo{
+  height: 60px;
+  width: 400px;
+  font-family: inherit;
+  font-style: italic;
+}
+button{
+  margin-right: 30px;
+}
