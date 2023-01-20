@@ -1,1 +1,1 @@
-# todo List with All,Completed and Activate functionality
+# todo List with All,Completed and Active functionality
